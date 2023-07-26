@@ -44,7 +44,6 @@ contract Daemon is ERC20, Ownable {
 2. Use a Solidity compiler or development environment of your choosing to compile the Solidity code.
 3. Use a tool which is Remix to release the built contract on the Ethereum network of your choosing.
 
-
 ## Help
 
 If you have any problems or queries when working with Solidity, see the relevant documentation for your compiler or development environment. Support from online Solidity developer groups or forums is also available.
